@@ -21,18 +21,19 @@
 
 ### 💼 Professional
 - 🌐 **Full Stack Developer** with passion for creating amazing web experiences
-- 💻 **Portfolio:** [nishant-kaus-website.vercel.app](https://nishant-kaus-website.vercel.app/)
-- 📧 **Contact:** nishantkaushik123@gmail.com
+- 💻 **Portfolio:** [nishant-kaushik-portfolio-website.vercel.app](https://nishant-kaushik-portfolio-website.vercel.app/)
+- 📧 **Contact:** nishantkaushik20042004@gmail.com
 - 🎯 Always exploring new technologies and frameworks
 
 </td>
 <td align="center" width="50%">
 
 ### 🌟 Current Focus
-- Building responsive web applications
-- Exploring modern JavaScript frameworks
-- Working on full-stack projects
-- Contributing to open source
+- 🚀 Building **scalable full-stack web applications** with React, Next.js & Node.js  
+- 🎨 Crafting **modern, responsive, and user-friendly interfaces** using Tailwind CSS & TypeScript  
+- 🛠 Exploring **cutting-edge JavaScript frameworks and backend optimizations**  
+- 🤝 Actively learning through **real-world projects**  
+- 🔥 Currently developing **DevTinder** – a platform to help developers connect, collaborate, and build (coming soon!)
 
 </td>
 </tr>
@@ -45,8 +46,9 @@
 <div align="center">
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -63,12 +65,14 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Matlab](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
@@ -102,10 +106,10 @@
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nis5730)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishant-kau272)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nis_3)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nishant-kaus-website.vercel.app/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nishant17925730)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-kaushik-769899272)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nishaant__3)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nishant-kaushik-portfolio-website.vercel.app/)
 
 </div>
 
