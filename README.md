@@ -1,64 +1,74 @@
-# 👋 Hello World! I'm **Nishant Kaushik**
+# <div align="center">👋 Hi, I'm **Nishant Kaushik**</div>
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Web+Developer;Passionate+Problem+Solver;Always+Learning+New+Technologies" alt="Typing SVG" />
+</div>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFD1&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Web+Developer;Problem+Solver+%26+Tech+Enthusiast;Building+Digital+Experiences;Always+Learning%2C+Always+Growing)
-
-<img src="https://komarev.com/ghpvc/?username=nishant-kaus04&label=Profile%20views&color=00FFD1&style=for-the-badge" alt="Profile Views" />
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nishant-kaushik-2004&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+  <a href="https://twitter.com/nishant17925730">
+    <img src="https://img.shields.io/twitter/follow/nishant17925730?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter Follow" />
+  </a>
 </div>
 
 ---
 
 ## 🚀 About Me
 
-```javascript
-const nishant = {
-    location: "India 🇮🇳",
-    code: ["JavaScript", "TypeScript", "Java", "C"],
-    technologies: {
-        frontEnd: ["React", "Next.js", "HTML5", "CSS3", "Tailwind CSS"],
-        backEnd: ["Node.js", "Express.js"],
-        databases: ["MongoDB"],
-        tools: ["Git", "Postman", "Arduino", "MATLAB"]
-    },
-    currentFocus: "Building full-stack applications with modern tech stack",
-    funFact: "I debug with console.log() and I'm proud of it! 🐛"
-};
-```
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-## 💼 What I Do
+### 💼 Professional
+- 🌐 **Full Stack Developer** with passion for creating amazing web experiences
+- 💻 **Portfolio:** [nishant-kaus-website.vercel.app](https://nishant-kaus-website.vercel.app/)
+- 📧 **Contact:** nishantkaushik123@gmail.com
+- 🎯 Always exploring new technologies and frameworks
 
-🔥 **Full Stack Development** - Creating end-to-end web solutions  
-💡 **Problem Solving** - Turning complex challenges into elegant code  
-🎨 **UI/UX Focus** - Building interfaces that users love  
-📱 **Responsive Design** - Mobile-first, accessible web applications  
+</td>
+<td align="center" width="50%">
+
+### 🌟 Current Focus
+- Building responsive web applications
+- Exploring modern JavaScript frameworks
+- Working on full-stack projects
+- Contributing to open source
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 👨‍💻 Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,java,c" />
-</p>
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🎨 Frontend Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
-</p>
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-### ⚡ Backend & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,postman" />
-</p>
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🧠 Other Skills
-<p>
-<img src="https://skillicons.dev/icons?i=arduino,matlab" />
-</p>
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Matlab](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 </div>
 
@@ -71,59 +81,36 @@ const nishant = {
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nishant-kaus04&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFD1&text_color=C0C0C0&icon_color=00FFD1&bg_color=0D1117" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=nishant-kaushik-2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant-kaus04&theme=tokyonight&hide_border=true&stroke=00FFD1&background=0D1117&ring=00FFD1&fire=00FFD1&currStreakLabel=C0C0C0" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishant-kaushik-2004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishant-kaus04&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFD1&text_color=C0C0C0&bg_color=0D1117" alt="Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant-kaushik-2004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 🌐 Let's Connect!
+## 🤝 Let's Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FFD1?style=for-the-badge&logo=google-chrome&logoColor=black)](https://nishant-kaus-website.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishantkaushik123@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nis5730)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishant-kau272)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nishant17925730)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nis_3)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nishant-kaus-website.vercel.app/)
 
 </div>
 
 ---
 
-## 🎯 Current Goals
-
-- 🔭 Working on exciting full-stack projects
-- 🌱 Exploring advanced React patterns and Next.js features
-- 👯 Looking to collaborate on open source projects
-- 💬 Ask me about **React, Node.js, or anything web development**
-- ⚡ Fun fact: **Code is poetry, and I'm writing novels!**
-
----
-
 <div align="center">
-
-### 💭 Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🐍 Contribution Snake
-![Snake animation](https://github.com/nishant-kaus04/nishant-kaus04/blob/output/github-contribution-grid-snake-dark.svg)
-
----
-
-**"Building the web, one commit at a time!"** 🚀
-
-*Thanks for visiting! Don't forget to ⭐ some repositories if you find them interesting!*
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" />
 </div>
