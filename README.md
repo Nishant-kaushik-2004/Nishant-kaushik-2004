@@ -21,7 +21,7 @@
 
 ### 💼 Professional
 - 🌐 **Full Stack Developer** with passion for creating amazing web experiences
-- 💻 **Portfolio:** [nishant-kaushik-portfolio-website.vercel.app](https://nishant-kaushik-portfolio-website.vercel.app/)
+- 💻 **Portfolio:** [nishant-kaushik-portfolio.vercel.app](https://nishant-kaushik-portfolio.vercel.app/)
 - 📧 **Contact:** nishantkaushik20042004@gmail.com
 - 🎯 Always exploring new technologies and frameworks
 
@@ -29,8 +29,8 @@
 <td align="center" width="50%">
 
 ### 🌟 Current Focus
-- 🚀 Building **scalable full-stack web applications** with React, Next.js & Node.js  
-- 🎨 Crafting **modern, responsive, and user-friendly interfaces** using Tailwind CSS & TypeScript  
+- 🚀 Building **scalable full-stack web applications** 
+- 🎨 Crafting **modern, responsive, and user-friendly interfaces**
 - 🛠 Exploring **cutting-edge JavaScript frameworks and backend optimizations**  
 - 🤝 Actively learning through **real-world projects**  
 - 🔥 Currently developing **DevTinder** – a platform to help developers connect, collaborate, and build (coming soon!)
@@ -108,8 +108,8 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nishant17925730)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-kaushik-769899272)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nishaant__3)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nishant-kaushik-portfolio-website.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nishaant_3)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nishant-kaushik-portfolio.vercel.app/)
 
 </div>
 
