@@ -29,9 +29,7 @@
 <td align="center" width="50%">
 
 ### 🌟 Current Focus
-- 🚀 Building **scalable full-stack web applications** 
-- 🎨 Crafting **modern, responsive, and user-friendly interfaces**
-- 🛠 Exploring **cutting-edge JavaScript frameworks and backend optimizations**  
+- 🚀 Building **scalable full-stack web applications**
 - 🤝 Actively learning through **real-world projects**  
 - 🔥 Currently developing **DevTinder** – a platform to help developers connect, collaborate, and build (coming soon!)
 
