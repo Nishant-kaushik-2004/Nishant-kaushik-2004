@@ -22,7 +22,7 @@
 ### 💼 Professional
 - 🌐 **Full Stack Developer** with passion for creating amazing web experiences
 - 💻 **Portfolio:** [nishant-kaushik-portfolio.vercel.app](https://nishant-kaushik-portfolio.vercel.app/)
-- 📧 **Contact:** nishantkaushik20042004@gmail.com
+- 📧 **Contact:** nishaant369@gmail.com
 - 🎯 Always exploring new technologies and frameworks
 
 </td>
