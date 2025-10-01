@@ -17,7 +17,7 @@
 
 <table align="center">
 <tr>
-<td align="center" width="50%">
+<td width="50%">
 
 ### 💼 Professional
 - 🌐 **Full Stack Developer** with passion for creating amazing web experiences
@@ -26,7 +26,7 @@
 - 🎯 Always exploring new technologies and frameworks
 
 </td>
-<td align="center" width="50%">
+<td width="50%">
 
 ### 🌟 Current Focus
 - 🚀 Building **scalable full-stack web applications**
